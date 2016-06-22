@@ -1,0 +1,14 @@
+layout_spectrum: 0.20319348783232272
+typography_spectrum: 0.620582708157599
+color:
+  brandStrength: 0.022276359610259533
+  lightness: 0.5649399508256465
+  saturation: 0.6245621792040765
+  rhythmicContrast: 0.9270495271775872
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: The Book
