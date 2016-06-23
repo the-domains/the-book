@@ -4,7 +4,7 @@
         <description><![CDATA[Book of Jimmy]]></description>
         <link>https://thegrid.ai/the-book/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 00:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 00:07:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-book/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Orange Sky]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.instagram.com/p/BGsbvyqjlus/?taken-by=jimmyliew</link>
             <guid isPermaLink="false">2559dbd5-4379-45b5-9837-98b81f34f5bb</guid>
             <pubDate>Wed, 22 Jun 2016 23:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Pimm's Cup recipes for spring.]]></title>
+            <description><![CDATA[<article><h1>7 Pimm's Cup recipes for spring.</h1><p>If Spring had an official cocktail, the Pimm's Cup would be it. It's ultra-refreshing, bright and vibrant-and as easy to make as it is to drink. To mix a basic version of the classic British cocktail, all you need is Pimm's No. 1, ginger ale (or some sort of lemon-lime soda), cucumber and lemon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81e7943555bcd38f0d3a304708ede962df3f224f.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/lifestyle/7-pimms-cup-recipes-for-spring</link>
+            <guid isPermaLink="false">849277a1-be16-4de5-b41b-6402237dffbf</guid>
+            <pubDate>Wed, 22 Jun 2016 23:43:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
